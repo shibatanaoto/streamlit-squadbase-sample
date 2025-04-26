@@ -6,7 +6,9 @@ authors = ["shibatanaoto <naoto.shibata510@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
+streamlit = "^1.44.1"
+numpy = "^2.2.5"
 
 
 [build-system]
