@@ -4,4 +4,4 @@ build:
   runtime: python3.9
   framework: streamlit
   package_manager: poetry
-  entrypoint: main.py
+  entrypoint: app.py
