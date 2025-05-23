@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 
-st.title("Streamlit Squadbase Sample")
+st.title("Streamlit Squadbase Sample[feature/test]")
 
 # Sample data creation
 months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun']
