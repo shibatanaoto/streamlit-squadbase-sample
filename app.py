@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 
-st.title("Streamlit Squadbase Sample[feature/test] pc1")
+st.title("Streamlit Squadbase Sample[feature/test] pc2")
 
 # File uploader
 uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
